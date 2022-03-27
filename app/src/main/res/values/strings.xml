@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project3Pertemuan2</string>
+    <string name="txt_masukkan_dua_angka">Masukkan Dua Angka</string>
+    <string name="txt_masukkan_angka_pertama">Masukkan angka pertama</string>
+    <string name="txt_plus">+</string>
+    <string name="txt_masukkan_angka_kedua">Masukkan angka kedua</string>
+    <string name="txt_minus">-</string>
+    <string name="txt_bagi">/</string>
+    <string name="txt_kali">*</string>
+    <string name="txt_hasil">Hasil</string>
+</resources>
